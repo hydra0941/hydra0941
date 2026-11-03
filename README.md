@@ -1,11 +1,14 @@
 ## Meow!
 
 ### About me.
-Currently in my first year of college learning
+#### I am currently in my first year of college learning
 - python 
 - computer architecture 
 - networking
-- multithreading
+  #### outside of college I am learning
+- multi-threading in C++
+- linear algebra
+- graph theory
 
 ##### I am proficiant in:
 - C++
